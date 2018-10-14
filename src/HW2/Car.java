@@ -1,3 +1,5 @@
+package HW2;
+
 import java.math.BigDecimal;
 
 public class Car {
